@@ -1,0 +1,20 @@
+{
+    "author":"mahesh Tupakula",
+    "name":"censor_h2",
+    "version":"0.3.8",
+    "description":"Censors words out of text",
+    "main":"second",
+    "repository":
+    {
+        "type":"git",
+        "url": "https://github.com/mahesh-57/mahesh-57.git"
+    },
+    "keywords":[
+        "censor",
+        "words"
+    ],
+    "dependencies":{},
+    "engines":{
+        "node":"*"
+    }
+}
